@@ -30,9 +30,17 @@ twitter_username: jomeisama
 github_username:  jomei
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+remote_theme: jomei/plainwhite-jekyll
+
+plainwhite:
+  name: Anatoly Nosov
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: jomeisama
+    github: jomei
+    linkedIn: in/anatoly-nosov-33679b84
 
 # Exclude from processing.
 # The following items will not be processed, by default.
