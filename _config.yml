@@ -30,7 +30,7 @@ twitter_username: jomeisama
 github_username:  jomei
 
 # Build settings
-remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: jomei/plainwhite-jekyll
 
 plainwhite:
   name: Anatoly Nosov
