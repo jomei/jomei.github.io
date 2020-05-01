@@ -30,11 +30,11 @@ twitter_username: jomeisama
 github_username:  jomei
 
 # Build settings
-remote_theme: jomei/plainwhite-jekyll
+remote_theme: thelehhman/plainwhite-jekyll
 
 plainwhite:
   name: Anatoly Nosov
-  tagline: Developerr
+  tagline: Developer
   date_format: "%b %-d, %Y"
 
   social_links:
