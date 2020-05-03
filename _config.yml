@@ -35,6 +35,7 @@ plainwhite:
   name: Anatoly Nosov
   tagline: Developer
   date_format: "%b %-d, %Y"
+  analytics_id: UA-165256874-1
 
   social_links:
     twitter: jomeisama
