@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Как делать нормально, чтобы было нормально? Как строить функциональные команды/процессы и не плодить дисфункциональных?
   Пробуем разобраться.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jomei.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jomeisama
 github_username:  jomei
 
