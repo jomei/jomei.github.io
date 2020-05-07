@@ -36,6 +36,7 @@ plainwhite:
   tagline: Developer
   date_format: "%b %-d, %Y"
   analytics_id: UA-165256874-1
+  disqus_shortname: games
 
   social_links:
     twitter: jomeisama
