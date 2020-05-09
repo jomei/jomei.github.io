@@ -31,6 +31,8 @@ github_username:  jomei
 # Build settings
 remote_theme: jomei/plainwhite-jekyll
 
+show_excerpts: true
+
 plainwhite:
   name: Anatoly Nosov
   tagline: Developer
