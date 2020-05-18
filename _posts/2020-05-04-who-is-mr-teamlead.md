@@ -2,7 +2,7 @@
 layout: post
 title:  "Who is mr.Teamlead?"
 date:   2020-05-03 00:00:00 +0000
-categories: team-management leadership
+categories: team-management
 excerpt_separator: <!--more-->
 ---
 > На небе, только и разговоров, что о тимлидах
