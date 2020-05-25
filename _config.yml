@@ -23,9 +23,7 @@ email: jomeisama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Как делать нормально, чтобы нормально было?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jomei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jomeisama
-github_username:  jomei
+url: "https://jomeisama.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: jomei/plainwhite-jekyll
@@ -38,11 +36,13 @@ plainwhite:
   date_format: "%b %-d, %Y"
   analytics_id: UA-165256874-1
   disqus_shortname: jomei-github-io
+  dark_mode: true
 
   social_links:
     twitter: jomeisama
     github: jomei
     linkedIn: in/anatoly-nosov-33679b84
+    telegram: jomeisama
 
 # Exclude from processing.
 # The following items will not be processed, by default.
