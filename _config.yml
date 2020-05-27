@@ -37,6 +37,7 @@ plainwhite:
   analytics_id: UA-165256874-1
   disqus_shortname: jomei-github-io
   dark_mode: true
+  read_more_text: продолжить...
 
   social_links:
     twitter: jomeisama
