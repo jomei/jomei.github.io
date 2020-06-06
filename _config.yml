@@ -39,6 +39,10 @@ plainwhite:
   dark_mode: true
   read_more_text: продолжить...
 
+  navigation:
+    - title: LeetCode2GitHub
+      url: "/l2g"
+
   social_links:
     twitter: jomeisama
     github: jomei
