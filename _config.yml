@@ -32,7 +32,7 @@ show_excerpts: true
 
 plainwhite:
   name: Anatoly Nosov
-  tagline: Developer
+  tagline: Team Lead
   date_format: "%b %-d, %Y"
   analytics_id: UA-165256874-1
   disqus_shortname: jomei-github-io
